@@ -1,0 +1,6 @@
+[submodule "my-tasks-backend"]
+	path = my-tasks-backend
+	url = git@github.com:shoorday/my-tasks-backend.git
+[submodule "my-tasks-frontend"]
+	path = my-tasks-frontend
+	url = git@github.com:shoorday/shoorday-my-tasks-frontend.git
